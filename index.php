@@ -18,6 +18,8 @@
             <label for="curse">Parolaccia</label>
             <input type="text" name="curse" placeholder="F**K">
         </p>
+
+        <button>Invia</button>
     </form>
 </main>
     
